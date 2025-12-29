@@ -5,7 +5,7 @@ projects:
       - sample
       - API
     lastUpdated: 1766728083018
-  DPv6_Product_Petstore:
+  DPv6_Product_Petstore1:
     description: Sample project with API definitions and policies
     tags:
       - sample

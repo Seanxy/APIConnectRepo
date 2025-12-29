@@ -1,5 +1,5 @@
 projects:
-  DPv6_Product_Petstore1:
+  DPv6_Product_Petstore龬𤫉𫇭𫞩𬸦:
     description: 'Publishes to DataPower API Gateway with invoke policy and product and plan'
     tags: ['DataPower API Gateway']
     lastUpdated: 1743005951090

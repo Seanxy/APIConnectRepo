@@ -1,0 +1,9 @@
+projects:
+  wM_NoAuth_Petstore:
+    description: >-
+      A webMethods project containing a unauthenticated petstore API with an
+      inovke and a logging policy.
+    tags:
+      - wM
+      - no-auth
+    lastUpdated: 1762582641058

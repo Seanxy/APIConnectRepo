@@ -1,5 +1,0 @@
-projects:
-  Petstore:
-    description: 'Publishes to DataPower API Gateway with invoke policy and product and plan'
-    tags: ['DataPower API Gateway']
-    lastUpdated: 1743005951090

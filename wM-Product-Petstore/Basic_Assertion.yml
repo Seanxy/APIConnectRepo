@@ -2,7 +2,7 @@ kind: assertion
 apiVersion: api.ibm.com/v1
 metadata:
   name: Basic_Assertion
-  namespace: DPv6_Product_Petstore
+  namespace: wM_Product_Petstore
   version: "1.0"
   tags:
     - assertion

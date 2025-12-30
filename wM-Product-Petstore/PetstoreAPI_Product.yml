@@ -1,8 +1,8 @@
 kind: API
 apiVersion: api.ibm.com/v1
 metadata:
-  name: PetstoreAPI
-  namespace: wM_NoAuth_Petstore
+  name: PetstoreAPI_Product
+  namespace: wM_APIKey_Petstore
   version: '1.0'
   tags:
     - api
@@ -11,4 +11,4 @@ spec:
   api-spec:
     $path: ./PetstoreAPI-spec.json
   policy-sequence:
-    - $ref: wM_NoAuth_Petstore:wM_PolicySequence:1.0
+    - $ref: wM_Product_Petstore:wM_PolicySequence:1.0

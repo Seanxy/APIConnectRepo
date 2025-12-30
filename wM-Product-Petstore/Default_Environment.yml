@@ -3,11 +3,11 @@ apiVersion: api.ibm.com/v1
 metadata:
   name: Default_Environment
   version: "1.0"
-  namespace: DPv6_Product_Petstore
+  namespace: wM_Product_Petstore
   tags:
     - environment
 spec:
   variables:
-    - key: clientId
+    - key: apikey
       isSecret: true
       value: dbdee0909b871dcb62145dcb72ce39ce

@@ -1,17 +1,17 @@
 kind: Product
 apiVersion: api.ibm.com/v1
 metadata:
-  name: DPv6_Product
-  namespace: DPv6_Product_Petstore
+  name: wM_Product
+  namespace: wM_Product_Petstore
   version: '1.0'
   tags:
     - product
   description: ''
 spec:
   apis:
-    - $ref: DPv6_Product_Petstore:PetstoreAPI:1.0
+    - $ref: wM_APIKey_Petstore:PetstoreAPI_Product:1.0
   plans:
-    - $ref: DPv6_Product_Petstore:DPv6_Plan:1.0
+    - $ref: wM_Product_Petstore:wM_Plan:1.0
   info:
     contact:
       name: Dhivakar

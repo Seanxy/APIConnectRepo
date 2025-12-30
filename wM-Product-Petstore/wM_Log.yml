@@ -2,7 +2,7 @@ kind: Log
 apiVersion: api.ibm.com/v1
 metadata:
   name: wM_Log
-  namespace: wM_NoAuth_Petstore
+  namespace: wM_Product_Petstore
   version: '1.0'
   tags:
     - log

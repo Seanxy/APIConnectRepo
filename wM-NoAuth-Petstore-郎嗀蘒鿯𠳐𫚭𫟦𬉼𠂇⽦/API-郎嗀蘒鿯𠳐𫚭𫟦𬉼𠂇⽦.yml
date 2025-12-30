@@ -1,0 +1,12 @@
+kind: API
+apiVersion: api.ibm.com/v1
+metadata:
+  name: API-郎嗀蘒鿯�����⽦
+  namespace: wM-NoAuth-Petstore-郎嗀蘒鿯�����⽦
+  version: '1.0'
+  tags:
+    - APITag_郎嗀蘒鿯�����⽦
+  type: REST
+spec:
+  api-spec:
+    $path: ./API-郎嗀蘒鿯�����⽦-spec.json

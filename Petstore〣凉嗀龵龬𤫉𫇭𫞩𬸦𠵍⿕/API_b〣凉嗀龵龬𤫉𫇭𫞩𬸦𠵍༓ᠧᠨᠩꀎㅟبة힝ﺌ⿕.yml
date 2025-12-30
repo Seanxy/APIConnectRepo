@@ -1,0 +1,12 @@
+kind: API
+apiVersion: api.ibm.com/v1
+metadata:
+  name: API_b〣凉嗀龵龬�����༓ᠧᠨᠩꀎㅟبة힝ﺌ⿕
+  namespace: Petstore〣凉嗀龵龬�����⿕
+  version: '1.0'
+  tags:
+    - b〣凉嗀龵龬�����༓ᠧᠨᠩꀎㅟبة힝ﺌ⿕
+  type: REST
+spec:
+  api-spec:
+    $path: ./API_b〣凉嗀龵龬�����༓ᠧᠨᠩꀎㅟبة힝ﺌ⿕-spec.json

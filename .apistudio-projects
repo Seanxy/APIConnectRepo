@@ -1,14 +1,15 @@
 projects:
-  wM-NoAuth-Petstore:
-    description: Sample project with API definitions and policies
+  Petstore〣凉嗀龵龬�����⿕:
+    description: Github project j︖㊣郎嗀蘒鿯����+��༑ᠠᥐꀇᄓㅛخد힗ﺌ⽦����ᦀꓤ
     tags:
       - sample
       - API
-    lastUpdated: 1766728083018
-  Petstore〣凉嗀龵龬𤫉𫇭𫞩𬸦𠵍⿕:
-    description: Github project j︖㊣郎嗀蘒鿯𠳐𫚭𫟦𬉼+𠂇𠀀༑ᠠᥐꀇᄓㅛخد힗ﺌ⽦𫑪𫠝𬺡𮯠ᦀꓤ
-    tags:
-      - sample
-      - API
-      - 〣凉嗀龵龬𤫉𫇭𫞩𬸦𠵍⿕
+      - 〣凉嗀龵龬�����⿕
     lastUpdated: 1767070826616
+  wM-NoAuth-Petstore-郎嗀蘒鿯�����⽦:
+    description: 'API definitions: 郎嗀蘒鿯�����⽦'
+    tags:
+      - sample
+      - API
+      - Tag_郎嗀蘒鿯�����⽦
+    lastUpdated: 1767072754741

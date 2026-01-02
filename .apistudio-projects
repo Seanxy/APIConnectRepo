@@ -5,6 +5,13 @@ projects:
       - sample
       - API
     lastUpdated: 1766728078096
+  Petstore_郎嗀蘒鿯𠳐𫚭𫟦𬉼𠂇⽦:
+    description: Sample project with API definitions and policies
+    tags:
+      - sample
+      - API
+      - Tag_郎嗀蘒鿯𠳐𫚭𫟦𬉼𠂇⽦
+    lastUpdated: 1766728081096
   wM-Product-Petstore:
     description: Sample project with API definitions and policies
     tags:

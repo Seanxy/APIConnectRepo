@@ -20,5 +20,6 @@ projects:
     lastUpdated: 1766728083858
   RepoProj_GBTest:
     description: RepoProj_GBTest
-    tags: []
-    lastUpdated: 1767372365537
+    tags:
+      - RepTag
+    lastUpdated: 1767372388574

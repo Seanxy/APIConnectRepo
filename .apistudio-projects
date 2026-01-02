@@ -19,7 +19,6 @@ projects:
       - API
     lastUpdated: 1766728083858
   RepoProj_GBTest:
-    description: 'RepoProj_GBTest: 郎嗀蘒鿯�����⽦'
-    tags:
-      - RepTag_郎嗀蘒鿯�����⽦
-    lastUpdated: 1767372141397
+    description: RepoProj_GBTest
+    tags: []
+    lastUpdated: 1767372365537
